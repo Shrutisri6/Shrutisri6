@@ -1,13 +1,33 @@
 ## Hi there, I'm Shrutisri
 
-🎓 Engineering Student  
-💻 Interested in AI, Machine Learning, and Software Development  
+🔥 About Me
+I am an aspiring AI Engineer passionate about Python and problem solving.
 
-🚀 Skills
-- Python
-- C++
-- Machine Learning
-- FastAPI
+🎓 Engineering Student  
+
+## 🧠 Skills
+
+### 💻 Programming
+- **Python** 
+- **C Programming**
+- **Java Programming** 
+
+### 🤖 Machine Learning
+- Supervised Learning: Regression
+- Unsupervised Learning
+- 
+### 🧠 Deep Learning
+- Convolutional Neural Networks (CNN)
+- 
+### 🗣️ Natural Language Processing (NLP)
+- Text Preprocessing & Tokenization
+- Embeddings & Vector Search
+- Retrieval-Augmented Generation (RAG)
+- LLM Prompt Engineering
 
 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shrutisri6&show_icons=true)
+
+🔥 Contribution Streak
+https://github-readme-streak-stats.herokuapp.com/?user=Shrutisri6
+
