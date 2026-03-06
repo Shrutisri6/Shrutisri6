@@ -25,9 +25,8 @@ I am an aspiring AI Engineer passionate about Python and problem solving.
 - Retrieval-Augmented Generation (RAG)
 - LLM Prompt Engineering
 
-📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Shrutisri6&show_icons=true)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrutisri6&show_icons=true&theme=tokyonight)
 
-🔥 Contribution Streak
-https://github-readme-streak-stats.herokuapp.com/?user=Shrutisri6
-
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrutisri6&theme=tokyonight)
