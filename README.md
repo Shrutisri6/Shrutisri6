@@ -26,7 +26,7 @@ I am an aspiring AI Engineer passionate about Python and problem solving.
 - LLM Prompt Engineering
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrutisri6&show_icons=true&theme=tokyonight)
+![Shrutisri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrutisri6&show_icons=true&theme=radical)
 
 ## 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrutisri6&theme=tokyonight)
