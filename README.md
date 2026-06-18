@@ -1,7 +1,7 @@
 ## Hi there, I'm Shrutisri
 
 🔥 About Me
-I am an aspiring AI Engineer passionate about Python and problem solving.
+I am an aspiring AI Engineer passionate about Python and problem-solving.
 
 🎓 Engineering Student  
 
@@ -15,10 +15,10 @@ I am an aspiring AI Engineer passionate about Python and problem solving.
 ### 🤖 Machine Learning
 - Supervised Learning: Regression
 - Unsupervised Learning
-- 
+  
 ### 🧠 Deep Learning
 - Convolutional Neural Networks (CNN)
-- 
+  
 ### 🗣️ Natural Language Processing (NLP)
 - Text Preprocessing & Tokenization
 - Embeddings & Vector Search
