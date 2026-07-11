@@ -1,7 +1,7 @@
 ## Hi there, I'm Shrutisri
 
-🔥 About Me
-I am an aspiring AI Engineer passionate about Python and problem-solving.
+🔥 About Me:
+##I am an aspiring AI Engineer passionate about Python and problem-solving.
 
 🎓 Engineering Student  
 
